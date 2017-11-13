@@ -16,9 +16,9 @@
 set -e
 set -u
 
-export MINGW=mingw-w64-v4.0.4
+export MINGW=mingw-w64-v5.0.3
 export BIN=binutils-2.25
-export GCC=gcc-4.9.3
+export GCC=gcc-7.2.0
 export GMP=gmp-6.1.0
 export MPF=mpfr-3.1.3
 export MPC=mpc-1.0.3
