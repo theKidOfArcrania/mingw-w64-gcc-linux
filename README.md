@@ -11,7 +11,7 @@ Configuration Summary
 ---------------------
 
 - Targetting win32
-- gcc 4.9.3
+- gcc 7.2.0
 - Posix threads
 - sjlj exceptions
 - No multilib
